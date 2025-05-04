@@ -20,8 +20,8 @@ This project implements a **Sentiment Analysis** system using **Machine Learning
 |---------------------------------------------|-------------|
 | *"This movie was truly inspiring and moving."* | ✅ Positive  |
 | *"Boring plot, weak characters. Waste of time."* | ❌ Negative  |
-| ![sample](https://github.com/AmanDagar144/Sentiment-Analysis-Project/blob/main/image/image_01.png) | ✅ Genuine  |
-| ![sample](https://github.com/AmanDagar144/Sentiment-Analysis-Project/blob/main/image/image_02.png) | ❌ Forged   |
+| ![sample](https://github.com/AmanDagar144/Sentiment-Analysis-Project/blob/main/image/image_01.png) | ✅ Positive  |
+| ![sample](https://github.com/AmanDagar144/Sentiment-Analysis-Project/blob/main/image/image_02.png) | ❌ Negative  |
 
 > Add screenshots like accuracy charts or confusion matrix once uploaded:
 
