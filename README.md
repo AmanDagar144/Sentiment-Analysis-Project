@@ -23,7 +23,6 @@ This project implements a **Sentiment Analysis** system using **Machine Learning
 | ![sample](https://github.com/AmanDagar144/Sentiment-Analysis-Project/blob/main/image/image_01.png) | ✅ Positive  |
 | ![sample](https://github.com/AmanDagar144/Sentiment-Analysis-Project/blob/main/image/image_02.png) | ❌ Negative  |
 
-> Add screenshots like accuracy charts or confusion matrix once uploaded:
 
 
 ---
